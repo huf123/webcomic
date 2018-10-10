@@ -1,0 +1,34 @@
+[05-Jun-2018 00:57:49 UTC] PHP Parse error:  syntax error, unexpected 'new' (T_NEW), expecting identifier (T_STRING) in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/controllers/Dashboard.php on line 39
+[08-Jun-2018 00:04:58 UTC] PHP Fatal error:  Cannot redeclare Dashboard::chapter() in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/controllers/Dashboard.php on line 33
+[08-Jun-2018 11:25:10 UTC] PHP Parse error:  syntax error, unexpected ''se_desc'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/controllers/Dashboard.php on line 74
+[08-Jun-2018 12:36:48 UTC] PHP Fatal error:  Call to a member function all_cat() on a non-object in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/controllers/Dashboard.php on line 60
+[08-Jun-2018 12:43:06 UTC] PHP Fatal error:  Call to a member function all_cat() on a non-object in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/controllers/Dashboard.php on line 59
+[08-Jun-2018 12:43:29 UTC] PHP Fatal error:  Call to a member function all_cat() on a non-object in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/controllers/Dashboard.php on line 59
+[24-Jun-2018 08:54:58 UTC] PHP Parse error:  syntax error, unexpected ''ch_author'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/controllers/Dashboard.php on line 73
+[24-Jun-2018 10:02:19 UTC] PHP Parse error:  syntax error, unexpected 'new' (T_NEW), expecting identifier (T_STRING) in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/controllers/Dashboard.php on line 46
+[24-Jun-2018 13:25:06 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/views/home_detail.php on line 96
+[05-Jul-2018 07:27:20 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/controllers/Home.php on line 15
+[06-Jul-2018 12:36:40 UTC] PHP Parse error:  syntax error, unexpected 'Hello' (T_STRING), expecting ',' or ';' in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/views/home_detail.php on line 155
+[06-Jul-2018 12:38:10 UTC] PHP Parse error:  syntax error, unexpected 'Hello' (T_STRING), expecting ',' or ';' in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/views/home_detail.php on line 155
+[06-Jul-2018 17:19:46 UTC] PHP Parse error:  syntax error, unexpected '$_SERVER' (T_VARIABLE), expecting ',' or ';' in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/views/home_detail.php on line 164
+[06-Jul-2018 17:20:12 UTC] PHP Parse error:  syntax error, unexpected '$_SERVER' (T_VARIABLE), expecting ',' or ';' in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/views/home_detail.php on line 164
+[06-Jul-2018 17:20:14 UTC] PHP Parse error:  syntax error, unexpected '$_SERVER' (T_VARIABLE), expecting ',' or ';' in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/views/home_detail.php on line 164
+[06-Jul-2018 17:20:14 UTC] PHP Parse error:  syntax error, unexpected '$_SERVER' (T_VARIABLE), expecting ',' or ';' in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/views/home_detail.php on line 164
+[06-Jul-2018 17:20:14 UTC] PHP Parse error:  syntax error, unexpected '$_SERVER' (T_VARIABLE), expecting ',' or ';' in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/views/home_detail.php on line 164
+[07-Jul-2018 05:37:15 UTC] PHP Fatal error:  Call to a member function data() on a non-object in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/controllers/Dashboard.php on line 72
+[09-Jul-2018 07:18:57 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/controllers/Dashboard.php on line 44
+[09-Jul-2018 07:19:11 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/controllers/Dashboard.php on line 44
+[09-Jul-2018 07:19:13 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/controllers/Dashboard.php on line 44
+[09-Jul-2018 12:45:50 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/controllers/Dashboard.php on line 128
+[09-Jul-2018 22:25:13 UTC] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING) in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/controllers/Dashboard.php on line 140
+[10-Jul-2018 06:41:47 UTC] PHP Parse error:  syntax error, unexpected '$route' (T_VARIABLE) in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/config/routes.php on line 59
+[11-Jul-2018 18:08:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/controllers/Home.php on line 80
+[11-Jul-2018 18:58:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/views/home_detail.php on line 240
+[12-Jul-2018 09:59:04 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/views/home_detail.php on line 126
+[13-Jul-2018 22:26:44 UTC] PHP Parse error:  syntax error, unexpected 'redirect' (T_STRING) in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/controllers/Home.php on line 39
+[13-Jul-2018 22:27:01 UTC] PHP Parse error:  syntax error, unexpected 'redirect' (T_STRING) in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/controllers/Home.php on line 39
+[16-Jul-2018 05:48:54 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/views/home_detail.php on line 128
+[17-Jul-2018 14:56:51 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/views/home_front.php on line 56
+[17-Jul-2018 14:57:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/views/home_front.php on line 56
+[17-Jul-2018 14:57:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/views/home_front.php on line 56
+[17-Jul-2018 18:27:36 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ahmadfaizun/public_html/misterputer.com/iqbal/application/views/home_front.php on line 48
